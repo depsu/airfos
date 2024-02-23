@@ -966,3 +966,8 @@ i{
     font-size: 30px;
     z-index: 100;
 }
+
+.svg-img{
+    background: white;
+    object-fit: contain !important;
+}
